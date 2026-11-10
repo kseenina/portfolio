@@ -42,7 +42,7 @@ _HTML • CSS_
 ---
 
 #### Контакты:
-✆ +7(968)076-77-17  
-✉ kseenina@gmail.com 
+tel: +7(968)076-77-17  
+email: kseenina@gmail.com  
 vk: @nolettersleft   
 telegram: @nolettersleft  
